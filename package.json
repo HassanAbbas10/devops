@@ -1,0 +1,20 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HassanAbbas10/devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HassanAbbas10/devops/issues"
+  },
+  "homepage": "https://github.com/HassanAbbas10/devops#readme"
+}
