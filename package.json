@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "run": "node index.js",
-    "test": "node test.js",
+    "test": "node test.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/HassanAbbas10/devops.git"
